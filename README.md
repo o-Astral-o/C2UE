@@ -1,4 +1,4 @@
-Unreal Engine for importing C2M files: [C2M](https://github.com/o-Astral-o/C2Mv3).
+Unreal Engine for importing [C2M](https://github.com/o-Astral-o/C2Mv3) files.
 # Supported Versions
 - 4.27 ✅
 - 5.1  ✅
