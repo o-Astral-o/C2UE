@@ -1,4 +1,9 @@
-Unreal Engine for importing [C2M](https://github.com/o-Astral-o/C2Mv3) files.
+# Unreal Engine for importing [C2M](https://github.com/o-Astral-o/C2Mv3) files.
+# Installation
+- Download the plugin for your engine version
+- Create a folder named 'Plugins' in your project folder if it doesn't already exist
+- Unzip contents into Plugins folder
+  
 # Supported Versions
 - 4.27 ✅
 - 5.1  ✅
