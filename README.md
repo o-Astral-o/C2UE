@@ -1,3 +1,5 @@
+[![Releases](https://img.shields.io/github/downloads/o-Astral-o/C2UE/total.svg)](https://github.com/o-Astral-o/C2UE/releases)
+
 # Unreal Engine for importing [C2M](https://github.com/o-Astral-o/C2Mv3) files.
 # Installation
 - Download the plugin for your engine version
